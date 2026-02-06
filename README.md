@@ -157,6 +157,7 @@ Indicates good ROI on marketing campaigns.
 👉 Business Insight:
 KFC’s marketing strategy is cost-effective.
 There is scope to slightly increase marketing investment in high-performing regions to maximize returns.
+
 6️⃣ Customer Behavior
 
 High customer counts correlate strongly with high sales.
@@ -168,6 +169,7 @@ Certain regions generate higher revenue per customer.
 Introduce loyalty programs in high-volume regions.
 
 Upsell premium products in regions with high per-customer revenue.
+
 🎯 Strategic Recommendations
 
 ✔ Focus expansion on Canada, UK, and India
